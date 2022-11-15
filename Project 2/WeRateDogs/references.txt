@@ -1,0 +1,7 @@
+https://github.com/onahi/Communicate-Data-
+https://github.com/Oyebamiji-Micheal/ALX-data-analyst-nanodegree-program
+https://stackoverflow.com/questions/64815227/attributeerror-module-seaborn-has-no-attribute-histplot
+https://www.google.com/
+https://www.geeksforgeeks.org/python-regex-re-search-vs-re-findall/
+https://stackoverflow.com/questions/18039057/python-pandas-error
+https://github.com/udacity/cn-data-analyst/tree/master/course_materials/data_analysis_process
