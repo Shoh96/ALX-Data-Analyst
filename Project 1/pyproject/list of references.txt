@@ -1,0 +1,9 @@
+https://plotly.com/python/categorical-axes/
+https://stackoverflow.com/questions/61441172/why-does-my-x-axis-ticks-are-not-sorted-properly-in-plotly-graph
+pandas.pydata.org/pandas-docs/
+https://www.bbkane.com/blog/jupyter-notebooks-with-plotly/
+https://plotly.com/python/plotly-fundamentals/
+https://stackoverflow.com/questions/14827650/pyplot-scatter-plot-marker-size
+https://www.appsloveworld.com/pandas/100/42/sort-categorical-x-axis-in-a-seaborn-scatter-plot
+https://www.tutorialspoint.com/how-to-sort-bars-in-increasing-order-in-a-bar-chart-in-matplotlib
+https://academy.codegnan.com/learn
